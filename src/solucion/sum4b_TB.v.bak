@@ -8,33 +8,32 @@ module sum4b_TB;
 
   // Outputs
   wire co;
-  wire [3:0] S;
+  wire [3:0] zi;
 
   // Instantiate the Unit Under Test (UUT)
   sum4b uut (
-    .xi(xi),
+    .xi(xi), 
     .yi(yi), 
     .co(co), 
-    .zi(S)
+    .zi(zi)
   );
 
   initial begin
-
   // Initialize Inputs
     xi=0;
 	 for (yi = 0; yi < 16; yi = yi + 1) begin
       if (yi==0)
         xi=xi+1;
-      #2 ;// $display("el valor de %d + %d = %d", xi,yi,zi) ;
+      #5 $display("el valor de %d + %d = %d", xi,yi,zi) ;
     end
-	 
   end      
 
 
 initial begin: TEST_CASE
-     //$dumpfile("sum4b_TB.vcd");
-     //$dumpvars(-1, uut);
+     $dumpfile("sum4b_TB.vcd");
+     $dumpvars(-1, uut);
      #(1280) $finish;
    end
 
 endmodule
+

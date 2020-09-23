@@ -18,6 +18,5 @@ module sum1bcc_primitive (A, B, Ci,Cout,S);
   and(cout_t,x_ab,Ci);
 
   or (Cout,cout_t,a_ab);
-  
 endmodule
 

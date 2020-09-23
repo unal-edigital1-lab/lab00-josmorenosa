@@ -1,0 +1,84 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/simulation/modelsim
+vsum1bcc
+Z1 !s110 1600884269
+!i10b 1
+!s100 <QhOiYBQTVBgZ:HW;GVkE0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJkZz>X:=`KWD_CJbjP;111
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1599664632
+8E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum1bcc.v
+FE:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum1bcc.v
+!i122 0
+L0 22 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1600884268.000000
+!s107 E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum1bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion|E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum1bcc.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion}
+Z7 tCvgOpt 0
+vsum4b
+R1
+!i10b 1
+!s100 K9ATKERl0AoW6@jDFKSXK3
+R2
+IKe]2HPAU0@8TlzR1Bj?7k2
+R3
+R0
+w1600872774
+8E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b.v
+FE:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b.v
+!i122 1
+L0 21 16
+R4
+r1
+!s85 0
+31
+Z8 !s108 1600884269.000000
+!s107 E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion|E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b.v|
+!i113 1
+R5
+R6
+R7
+vsum4b_TB
+R1
+!i10b 1
+!s100 lNQdN_eQ:ac[2njNA1bLo2
+R2
+IYVC:QS]>k5I<>7]C^;ghX3
+R3
+R0
+w1600884245
+8E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b_TB.v
+FE:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b_TB.v
+!i122 2
+L0 3 38
+R4
+r1
+!s85 0
+31
+R8
+!s107 E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion|E:/Universidad Nacional/Digital1/Laboratorio/lab00-josmorenosa/src/solucion/sum4b_TB.v|
+!i113 1
+R5
+R6
+R7
+nsum4b_@t@b
