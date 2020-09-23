@@ -1,9 +1,6 @@
 # Lab01 - Sumador 
 
-*Jonathan Smit Moreno Sánchez 
-*Facultad de Ing. Eléctrica y Electrónica
-*U.Nacional de Colombia
-josmorenosa@unal.edu.co
+*Esttudiante: Jonathan Smit Moreno Sánchez 
 
 # Entregables
 
