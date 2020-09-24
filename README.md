@@ -13,9 +13,10 @@ Una vez clone el repositorio y lea la anterior guia, realice lo siguiente:
 Observamos los resultados arrojados en la simulación del sumador de 1 bit.
 ![Sumador 1bit](https://github.com/unal-edigital1-lab/lab00-josmorenosa/blob/master/Figuras/Sum1b.PNG)
 
-# Sumador de 4 BIT
+# Sumador de 4 BIT'S
 
 * Cree el nuevo proyecto HDL para el sumador de 4 bit, onde el top sea sum4bcc.v e instancie el sumador de 1 bit ***sum1bcc.v***
+![Sumador 4bbit](https://github.com/unal-edigital1-lab/lab00-josmorenosa/blob/master/Figuras/sum4b.PNG)
 * Crear el archivo testbench.v
 ![TB](https://github.com/unal-edigital1-lab/lab00-josmorenosa/blob/master/Figuras/crear_Tb.PNG)
 * Genera la simulación, Revise que el sistema funciona como usted lo esperaba. Realice lo comentarios necesarios en el archivo README.md.
